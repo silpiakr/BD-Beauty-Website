@@ -108,3 +108,99 @@
     margin-left: -38px;
     border-radius: 7px;
 }
+/* product section end */
+.carr {
+    margin-top: 120px;
+}
+/* brand section start */
+.bndimg img {
+    height: 25vh;
+    width: 103%;
+    border-radius: 10px;
+}
+.bnd {
+    margin-left: 10px;
+}
+.bnds {
+    margin-right: 10px;
+}
+/* brand section end */
+/* products category start */
+.ctrimg img {
+    height: 250px;
+    width: 101%;
+    border-radius: 4px;
+}
+/* products category end */
+/* Concern section star */
+.crnimg img {
+    height: 200px;
+    width: 100%;
+    border-radius: 4px;
+}
+/* Concern section end */
+.immg img {
+    height: 35vh;
+    width: 100%;
+}
+/* product carousel start */
+.card a {
+    text-decoration: none;
+    background-color: #FF3D71;
+    width: 85%;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 7px 15px;
+    border-radius: 10px;
+    margin: 0px 0px 15px 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.card a:hover {
+    transform: scale(1.04);
+    transition: .6s;
+    background-color: #f83166;
+}
+.txx {
+    color: #FF3D71;
+}
+/* product carousel end */
+/* footer start */
+.lastimg {
+    background-color: #5C0F8B;
+}
+.lastimg img {
+    width: 100%;
+}
+.lasst {
+    background-color: #192038;
+    height: 90vh;
+}
+.laico i {
+    color: #FFFFFF;
+    border: 2px solid rgb(206, 206, 206);
+    font-size: 18px;
+    padding: 4px 5px;
+    border-radius: 50px;
+}
+.fttx img {
+    margin-left: -20px;
+}
+.tax a {
+    text-decoration: none;
+    color: rgb(207, 207, 207);
+    text-transform: uppercase;
+    line-height: 28px;
+    font-size: 15px;
+    word-spacing: 4px;
+}
+.tax a:hover {
+    color: #FF3D71;
+}
+.txh {
+    color: #FF3D71;
+    text-transform: uppercase;
+}
+.lsp {
+    color: rgb(207, 207, 207);
+}
+/* footer end */
