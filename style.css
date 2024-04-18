@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.navbar-brand img {
+    height: auto;
+    width: 30%;
+}
+.inp {
+    width: 100%;
+    border-radius: 30px;
+    padding: 5px 115px 5px 15px;
+    border: 2px solid #e66c8c;
+    background-color: rgb(249, 249, 249);
+}
+.bttn {
+    width: 50%;
+    border-radius: 30px;
+    color: black;
+    border: none;
+    background-color: #d4d4d4;
+    font-size: 11px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+.bttns {
+    width: 45%;
+    border-radius: 30px;
+    color: #FFFFFF;
+    background-color: #FF3D71;
+    border: none;
+    font-size: 11px;
+}
+.llin {
+    height: 1px;
+    width: 100%;
+    background-color: rgb(217, 217, 217);
+    margin-top: 10px;
+}
+.menus a {
+    text-decoration: none;
+    color: black;
+    padding: 0px 15px;
+    font-size: 14px;
+}
+.menus a:hover {
+    color: #FF3D71;
+}
+.bsn {
+    color: #FFFFFF;
+    background-color: rgb(246, 68, 95);
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bsn:hover {
+    background-color: rgb(246, 68, 95);
+    color: #FFFFFF;
+}
+.bsns {
+    background-color: violet;
+    color: #FFFFFF;
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bsns:hover {
+    background-color: violet;
+    color: #FFFFFF;
+}
+.bsn-s {
+    color: #FFFFFF;
+    background-color: rgb(8, 189, 135);
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bsn-s:hover {
+    background-color: rgb(8, 189, 135);
+    color: #FFFFFF;
+}
+.bs-ns {
+    color: #FFFFFF;
+    background-color: rgb(19, 170, 19);
+    border-radius: 30px;
+    font-size: 14px;
+    padding: 3px 20px;
+}
+.bs-ns:hover {
+    background-color: rgb(19, 170, 19);
+    color: #FFFFFF;
+}
+.imege img {
+    height: 120px;
+    width: 100%;
+}
+.imeg img {
+    height: 80px;
+    width: 100%;
+}
+/* product section start */
+.prtimg {
+    padding-left: 10px
+}
+.prtimg img {
+    height: 270px;
+    width: 270px;
+    margin-left: -38px;
+    border-radius: 7px;
+}
